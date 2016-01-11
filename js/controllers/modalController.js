@@ -4,7 +4,7 @@ app.controller('modalController', ['$scope', '$stateParams', '$state', 'apiServi
   var reqId = stateParams.id;
   scope.vm = {};
   api.getProject(reqId).then(function(data){
-    console.log("data is: ",data);
+   // console.log("data is: ",data);
     scope.vm = data;
     scope.$apply();
   }).catch(function(){

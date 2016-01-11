@@ -251,3 +251,11 @@ button.more{
 button.more:hover{
   color: #67696F;
 }
+
+li a{
+  color: inherit;
+}
+
+li a:hover{
+  color: inherit;
+}

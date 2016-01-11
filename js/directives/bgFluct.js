@@ -8,7 +8,8 @@ app.directive('bgFluct', function(){
   _.link = function(scope, elem, attr) {
 
     // if there is no image provided use pp.png the default
-    scope.$watch('data', function(oldVal, newVal){
+    scope.$watch('data', function(newVal, oldVal){
+     // console.log("newVal is ", newVal)
       if(newVal && newVal.background_image){
         elem.css(
           {
