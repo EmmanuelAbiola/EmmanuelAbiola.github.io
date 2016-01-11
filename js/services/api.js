@@ -11,14 +11,14 @@ app.service('apiService', function(){
       id: 2,
       title: 'Dise LTD',
       background_image: 'img/diselogo.png',
-      timestamp: '9/05/06',
-      description: 'Founded a Technology Consultancy company that aims to aid small and medium size companies with their technology strategy. Pitched to a panel of 5 experienced business leaders, and won a prize fund of £25,000. Created a brick-breaker style game called ‘Bricks’ for the Apple App and Google play stores. Conducted a sales campaign, which led to over 10,000 downloads in 3 weeks. Featured in over 20 news articles/App review sites & interviewed by MTV Voices and BBC Nottingham.' 
+      timestamp: '1/05/2014',
+      description: 'Founded a Technology Consultancy company that aims to aid small and medium size companies with their technology strategy. Pitched to a panel of 5 experienced business leaders, and won a prize fund of $25,000. Created a brick-breaker style game called Bricks for the Apple App and Google play stores. Conducted a sales campaign, which led to over 10,000 downloads in 3 weeks. Featured in over 20 news articles/App review sites & interviewed by MTV Voices and BBC Nottingham.' 
     },
     {
       id: 3,
       title: 'Bricks',
       background_image: 'img/bricks.png',
-      timestamp: '08/01/06',
+      timestamp: '01/01/2014',
       description: 'The objective is simple. Each level you must destroy all bricks but do it in style for those ludicrous high scores! Using creative colour combos, rack up your points whilst achieving power ups aiding your quest in the outrageously addictive task of brick breaking. Compare yourself to the competition with the integrated global leader-boards! Can you defeat your friends to be crowned the Bricks master?. There is more to quench your brick breaking thirst! Challenge yourself by completing the tons of unique in game challenges and watch your score multiply!. In this game simplicity is key. Break Bricks, rack up points, progress to the next level; Sounds easy right? It never is.' 
     },
     {

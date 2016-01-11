@@ -181,10 +181,10 @@ i.modal-hero-navigate {
 
 .profile-picture {
   display: inline-block;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50px;
-  background-image: url('../img/eman.JPG');
+  background-image: url('../img/eman.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
