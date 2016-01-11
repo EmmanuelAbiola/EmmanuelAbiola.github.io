@@ -1,0 +1,15 @@
+<div class="four columns" style="margin-right: 20px;">
+  <div class="row">
+    <div ng-data="vm" class="project-item" bg-fluct>
+      <div class="modal-hero-content modal-hero-label">
+        {{vm.title}}
+        <span class="modal-hero-timestamp">
+        {{vm.timestamp}}
+        </span>
+      </div>
+    </div>
+  </div>
+  <div class="row text-centered">
+    <button class="more" ui-sref="home.project({id: vm.id})">More</button>
+  </div>
+</div>

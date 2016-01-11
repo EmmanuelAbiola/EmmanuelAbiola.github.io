@@ -1,0 +1,31 @@
+<div ng-class="{'modal-container modal-animation': true}">
+  <div class="container">
+    <div class="twelve columns">
+      <div ng-class="{'modal-box modal-box-animation': true}">
+        <div class="row relative">
+          <div class="modal-hero" ng-data="vm" bg-fluct></div>
+          <div class="modal-hero-content modal-close">
+            <button ui-sref="home">CLOSE</button>
+          </div>
+          <div class="modal-hero-content modal-hero-label">
+            {{vm.title}}
+            <span class="modal-hero-timestamp">
+              {{vm.timestamp}}
+            </span>
+            <button class="modal-hero-navigate">
+             <i class="modal-hero-navigate icon-right-outline"></i>
+            </button>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="twelve-columns">
+            <div class="modal-info text">
+              {{vm.description}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

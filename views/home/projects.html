@@ -1,0 +1,12 @@
+<div class="row">
+  <div class="four columns">
+    <span class="section-title" >Project</span>
+  </div>
+</div>
+
+<div class="row">
+<!-- Do an ng-repeat giving two columns -->
+  <div ng-repeat="project in vm.projects">
+    <project-item ng-data="project"></project-item>
+  </div>
+</div>
