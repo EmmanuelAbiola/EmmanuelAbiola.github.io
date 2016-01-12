@@ -5,14 +5,15 @@ app.service('apiService', function(){
       title: 'Patient 0',
       background_image: 'img/patientzero.png',
       timestamp: '6/11/2015',
-      description: 'The Patient 0 is an App to refine assessment skills for practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.' 
+      description: 'The Patient 0 is an App to refine assessment skills for practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.',
+       project_url: 'www.google.com'
     },
     {
       id: 2,
       title: 'Smart Watch Project',
       background_image: 'https://images.unsplash.com/photo-1434493651957-4ec11beae249?crop=entropy&dpr=2&fit=crop&fm=jpg&h=825&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450',
       timestamp: '1/10/2015',
-      description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This report details the design and implementation of a minimum viable product (mvp) of the Android app focuses on some of the difficult aspects such as designing and implementing the visual monitor. In the end, we concluded that the mvp was a great start and that it was effective way to monitor nervous system issues. Further work will include finishing the implementation of all requirements and further testing with users.' 
+      description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This report details the design and implementation of a minimum viable product (mvp) of the Android app focuses on some of the difficult aspects such as designing and implementing the visual monitor. In the end, we concluded that the mvp was a great start and that it was effective way to monitor nervous system issues. Further work will include finishing the implementation of all requirements and further testing with users.',
     },
     {
       id: 3,
