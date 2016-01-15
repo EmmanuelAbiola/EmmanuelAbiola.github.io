@@ -13,7 +13,7 @@ app.service('apiService', function(){
       title: 'Smart Watch Project',
       background_image: 'https://images.unsplash.com/photo-1434493651957-4ec11beae249?crop=entropy&dpr=2&fit=crop&fm=jpg&h=825&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450',
       timestamp: '1/10/2015',
-      description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This report details the design and implementation of a minimum viable product (mvp) of the Android app focuses on some of the difficult aspects such as designing and implementing the visual monitor. In the end, we concluded that the mvp was a great start and that it was effective way to monitor nervous system issues. Further work will include finishing the implementation of all requirements and further testing with users.'
+      description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This project  was developed to help aid people who experience neurodevelopmental problems.  An example of this is using the watch to monitor Attention deficit hyperactivity disorder (ADHD). From this Mobile and Watch Application a user will be able to record data and draw various conclusions.'
     },
     {
       id: 3,
