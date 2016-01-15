@@ -63,7 +63,8 @@ app.service('apiService', function(){
       title: 'Dise LTD',
       background_image: 'img/diselogo.png',
       timestamp: '1/05/2014',
-      description: 'Founded a Technology Consultancy company that aims to aid small and medium size companies with their technology strategy. Pitched to a panel of 5 experienced business leaders, and won a prize fund of $25,000. Created a brick-breaker style game called Bricks for the Apple App and Google play stores. Conducted a sales campaign, which led to over 10,000 downloads in 3 weeks. Featured in over 20 news articles/App review sites & interviewed by MTV Voices and BBC Nottingham.'
+      description: 'Founded a Technology Consultancy company that aims to aid small and medium size companies with their technology strategy. Pitched to a panel of 5 experienced business leaders, and won a prize fund of $25,000. Created a brick-breaker style game called Bricks for the Apple App and Google play stores. Conducted a sales campaign, which led to over 10,000 downloads in 3 weeks. Featured in over 20 news articles/App review sites & interviewed by MTV Voices and BBC Nottingham.',
+      project_url:'http://www.belpernews.co.uk/news/local/video-business-bright-sparks-share-35k-1-6746125'
     },
     {
       id: 9,
