@@ -5,7 +5,7 @@ app.service('apiService', function(){
       title: 'Patient 0',
       background_image: 'img/patientzero.png',
       timestamp: '6/11/2015',
-      description: 'The Patient 0 is an App to refine assessment skills for practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.',
+      description: 'The Patient 0 is an App to refine assessment skills for healthcare practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.',
        project_url: 'http://telhack.co.uk/'
     },
     {
