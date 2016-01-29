@@ -38,7 +38,8 @@ app.service('apiService', function(){
       title: 'Mumble',
       background_image: 'img/mumble.png',
       timestamp: '20/10/2014',
-      description: 'Mumble is a free iOS and Android based mobile application which allows users to share their deepest thoughts, facts of interest, or casual musings from a completely anonymous perspective. Mumble is a geographical based social platform allowing anyone to create a post of 150 characters that is then made available to those within range. Mumbles can be tagged to landmarks or buildings, creating an outlet to express one views to those around them. Mumble is two-sided, users can reply and share the love by liking other posts within the community. ' 
+      description: 'Mumble is a free iOS and Android based mobile application which allows users to share their deepest thoughts, facts of interest, or casual musings from a completely anonymous perspective. Mumble is a geographical based social platform allowing anyone to create a post of 150 characters that is then made available to those within range. Mumbles can be tagged to landmarks or buildings, creating an outlet to express one views to those around them. Mumble is two-sided, users can reply and share the love by liking other posts within the community. ', 
+    project_url:'https://play.google.com/store/apps/details?id=dise.com.mumble&hl=en_GB'
     },
   
     {
