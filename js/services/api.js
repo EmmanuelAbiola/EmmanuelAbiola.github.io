@@ -2,6 +2,14 @@ app.service('apiService', function(){
   var data = [
     {
       id: 1,
+      title: 'Xplora',
+      background_image: 'img/xplora.png',
+      timestamp: '17/05/2016',
+      description: 'An app specialising in luxury and fun travel. Each week, there is a hand-pick of four/five-star locations and holidays.Travel is, and should be, exciting - share your adventures.This app will inspire people to Xplore more with amazing images and exciting destinations.',
+       project_url: 'https://play.google.com/store/apps/details?id=dise.xplore_project'
+    },
+    {
+      id: 2,
       title: 'Patient 0',
       background_image: 'img/patientzero.png',
       timestamp: '6/11/2015',
@@ -9,14 +17,14 @@ app.service('apiService', function(){
        project_url: 'http://telhack.co.uk/'
     },
     {
-      id: 2,
+      id: 3,
       title: 'Smart Watch Project',
       background_image: 'https://images.unsplash.com/photo-1434493651957-4ec11beae249?crop=entropy&dpr=2&fit=crop&fm=jpg&h=825&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450',
       timestamp: '1/10/2015',
       description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This project  was developed to help aid people who experience neurodevelopmental problems.  An example of this is using the watch to monitor Attention deficit hyperactivity disorder (ADHD). From this Mobile and Watch Application a user will be able to record data and draw various conclusions.'
     },
     {
-      id: 3,
+      id: 4,
       title: 'Keey',
       background_image: 'img/keeyapp.png',
       timestamp: '1/05/2015',
@@ -25,7 +33,7 @@ app.service('apiService', function(){
     },
      
       {
-      id: 4,
+      id: 5,
       title: 'HopperBus',
       background_image: 'img/hopperbus.jpeg',
       timestamp: '1/01/2015',
@@ -34,7 +42,7 @@ app.service('apiService', function(){
     },
 
     {
-      id: 5,
+      id: 6,
       title: 'Mumble',
       background_image: 'img/mumble.png',
       timestamp: '20/10/2014',
@@ -43,7 +51,7 @@ app.service('apiService', function(){
     },
   
     {
-      id: 6,
+      id: 7,
       title: 'UoN Economics & Finance App',
       background_image: 'img/nefs.png',
       timestamp: '1/10/2014',
@@ -52,7 +60,7 @@ app.service('apiService', function(){
     },
 
     {
-      id: 7,
+      id: 8,
       title: 'UoN Week 1 Welcome App',
       background_image: 'img/weekone.png',
       timestamp: '1/9/2014',
@@ -60,7 +68,7 @@ app.service('apiService', function(){
       project_url:'https://play.google.com/store/apps/details?id=com.dise.weekone&hl=en_GB'
     },
     {
-      id: 8,
+      id: 9,
       title: 'Dise LTD',
       background_image: 'img/diselogo.png',
       timestamp: '1/05/2014',
@@ -68,7 +76,7 @@ app.service('apiService', function(){
       project_url:'http://www.belpernews.co.uk/news/local/video-business-bright-sparks-share-35k-1-6746125'
     },
     {
-      id: 9,
+      id: 10,
       title: 'Bricks',
       background_image: 'img/bricks.png',
       timestamp: '1/03/2014',
