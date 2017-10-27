@@ -13,8 +13,7 @@ app.service('apiService', function(){
       title: 'Patient 0',
       background_image: 'img/patientzero.png',
       timestamp: '6/11/2015',
-      description: 'The Patient 0 is an App to refine assessment skills for healthcare practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.',
-       project_url: 'http://telhack.co.uk/'
+      description: 'The Patient 0 is an App to refine assessment skills for healthcare practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.'
     },
     {
       id: 3,
@@ -31,7 +30,7 @@ app.service('apiService', function(){
       description: 'Keey is a simplified digital audio workstation giving everyone everywhere of all skill levels the ability to create studio quality beats in minutes, from funky hip hop to electrical dance, the possibilities are endless. Music creation has never been so simple.Keey is a well thought of iPad app that bridges the gap in music making, especially for entry level users.',
       project_url: 'http://producthunt.com/tech/keey' 
     },
-     
+      
       {
       id: 5,
       title: 'HopperBus',
@@ -61,11 +60,11 @@ app.service('apiService', function(){
 
     {
       id: 8,
-      title: 'UoN Week 1 Welcome App',
-      background_image: 'img/weekone.png',
+      title: 'Impact Magazine',
+      background_image: 'img/impact.png',
       timestamp: '1/9/2014',
       description: 'Welcome to the UoN Students Union Week One app. An app designed to maximise the experience delivered to you during your first week! This app is essential for all UoN students and aims to improve the week one experience of Freshers and returners alike.',
-      project_url:'https://play.google.com/store/apps/details?id=com.dise.weekone&hl=en_GB'
+      project_url:'https://play.google.com/store/apps/details?id=apps.dipoareoye.impact&hl=en'
     },
     {
       id: 9,
