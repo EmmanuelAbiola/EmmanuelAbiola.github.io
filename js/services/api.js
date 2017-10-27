@@ -61,11 +61,11 @@ app.service('apiService', function(){
 
     {
       id: 8,
-      title: 'UoN Week 1 Welcome App',
-      background_image: 'img/weekone.png',
+      title: 'Impact Magazine',
+      background_image: 'img/impact.png',
       timestamp: '1/9/2014',
       description: 'Welcome to the UoN Students Union Week One app. An app designed to maximise the experience delivered to you during your first week! This app is essential for all UoN students and aims to improve the week one experience of Freshers and returners alike.',
-      project_url:'https://play.google.com/store/apps/details?id=com.dise.weekone&hl=en_GB'
+      project_url:'https://play.google.com/store/apps/details?id=apps.dipoareoye.impact'
     },
     {
       id: 9,
