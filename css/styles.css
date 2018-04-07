@@ -185,10 +185,13 @@ i.modal-hero-navigate {
   width: 150px;
   height: 150px;
   border-radius: 75px;
-  background-image: url('../img/eman.png');
+  border-bottom: 1px solid grey;
+
+  background-image: url('../img/cartoon.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+
 }
 
 .section-title {
