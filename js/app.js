@@ -4,6 +4,7 @@ var app = angular.module('app', ['ui.router', 'ngAnimate']);
 
 app.config(function($stateProvider, $urlRouterProvider) {
   // For any unmatched url, redirect to /
+  //$ REPRESENTS jQuery//
   $urlRouterProvider.otherwise("/home");
 
   $stateProvider
