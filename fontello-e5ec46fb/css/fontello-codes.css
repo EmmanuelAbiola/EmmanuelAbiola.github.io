@@ -1,5 +1,6 @@
 
 .icon-mail:before { content: '\e800'; } /* '' */
+.icon-right-outline:before { content: '\e801'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-linkedin:before { content: '\f0e1'; } /* '' */
 .icon-github:before { content: '\f113'; } /* '' */
