@@ -6,7 +6,7 @@ app.service('apiService', function(){
       background_image: 'img/film.png',
       timestamp: '1/12/2016',
       description: 'A simple Android app, that helps a user discover movies. Discover the most popular, the highest rated moves. Watch movie trailers and teasers. Read reviews from other users. Mark movies as favourites. Search for movies. Users are also able to access movies offline',
-       project_url: ''
+       project_url: 'https://play.google.com/store/apps/details?id=com.creativecode.emmanuelabiola.popularmovies'
     },
     {
       id: 2,
