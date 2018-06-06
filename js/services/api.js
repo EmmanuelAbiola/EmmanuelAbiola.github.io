@@ -2,22 +2,22 @@ app.service('apiService', function(){
   var data = [
     {
       id: 1,
-      title: 'Movies',
-      background_image: 'img/film.png',
-      timestamp: '1/12/2016',
-<<<<<<< HEAD
-      description: 'A simple Android app, that helps a user discover movies. Discover the most popular or highest rated movies. You will be able to watch movie trailers, read reviews from users. Mark movies as favorites. Search for movies and access movies offline. ',
-=======
-      description: 'A simple Android app, that helps a user discover movies. Discover the most popular, the highest rated moves. Watch movie trailers and teasers. Read reviews from other users. Mark movies as favourites. Search for movies. Users are also able to access movies offline',
-<<<<<<< HEAD
->>>>>>> master
-       project_url: ''
-=======
-       project_url: 'https://play.google.com/store/apps/details?id=com.creativecode.emmanuelabiola.popularmovies'
->>>>>>> master
+      title: 'Maps',
+      background_image: 'img/maps.png',
+      timestamp: '1/03/2017',
+      description: 'This is a React.js maps application. Here I use props and state to display information. I use of a form element in a sub-component to create a search box that updates other components. Also allow users to be able to add to and remove from datasets, updating the display in real-time.',
+       project_url: 'https://github.com/EmmanuelAbiola/Maps'
     },
     {
       id: 2,
+      title: 'Movies',
+      background_image: 'img/film.png',
+      timestamp: '1/12/2016',
+      description: 'A simple Android app, that helps a user discover movies. Discover the most popular, the highest rated moves. Watch movie trailers and teasers. Read reviews from other users. Mark movies as favourites. Search for movies. Users are also able to access movies offline',
+       project_url: 'https://play.google.com/store/apps/details?id=com.creativecode.emmanuelabiola.popularmovies'
+    },
+    {
+      id: 3,
       title: 'Xplora',
       background_image: 'img/xplora.png',
       timestamp: '17/05/2016',
@@ -25,21 +25,21 @@ app.service('apiService', function(){
        project_url: 'https://play.google.com/store/apps/details?id=dise.xplore_project'
     },
     {
-      id: 3,
+      id: 4,
       title: 'Patient 0',
       background_image: 'img/patientzero.png',
       timestamp: '6/11/2015',
       description: 'The Patient 0 is an App to refine assessment skills for healthcare practice. TelHack brought together 80 of the UK best developers. A leading event bringing together 80 of the best developers, designers and industry experts from all around the UK to conceive, build and launch high impact solutions that will revolutionise healthcare education. This project was run under the NHS Healthcare Education England(HEE) Technology Enhanched Learning (Tel) programme.'
     },
     {
-      id: 4,
+      id: 5,
       title: 'Smart Watch Project',
       background_image: 'https://images.unsplash.com/photo-1434493651957-4ec11beae249?crop=entropy&dpr=2&fit=crop&fm=jpg&h=825&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1450',
       timestamp: '1/10/2015',
       description: 'This project was both a practical implementation of an Android application that aims to monitor the physical trends of an individuals nervous system with the application of a Pebble Smart Watch. This project  was developed to help aid people who experience neurodevelopmental problems.  An example of this is using the watch to monitor Attention deficit hyperactivity disorder (ADHD). From this Mobile and Watch Application a user will be able to record data and draw various conclusions.'
     },
     {
-      id: 5,
+      id: 6,
       title: 'Keey',
       background_image: 'img/keeyapp.png',
       timestamp: '1/05/2015',
@@ -47,7 +47,7 @@ app.service('apiService', function(){
       project_url: 'http://producthunt.com/tech/keey' 
     },
       {
-      id: 6,
+      id: 7,
       title: 'HopperBus',
       background_image: 'img/hopperbus.jpeg',
       timestamp: '1/01/2015',
@@ -56,7 +56,7 @@ app.service('apiService', function(){
     },
 
     {
-      id: 7,
+      id: 8,
       title: 'Mumble',
       background_image: 'img/mumble.png',
       timestamp: '20/10/2014',
@@ -65,7 +65,7 @@ app.service('apiService', function(){
     },
   
     {
-      id: 8,
+      id: 9,
       title: 'UoN Economics & Finance App',
       background_image: 'img/nefs.png',
       timestamp: '1/10/2014',
@@ -74,7 +74,7 @@ app.service('apiService', function(){
     },
 
     {
-      id: 9,
+      id: 10,
       title: 'Impact Magazine',
       background_image: 'img/impact.png',
       timestamp: '1/9/2014',
@@ -82,7 +82,7 @@ app.service('apiService', function(){
       project_url:'https://play.google.com/store/apps/details?id=apps.dipoareoye.impact&hl=en'
     },
     {
-      id: 10,
+      id: 11,
       title: 'Dise LTD',
       background_image: 'img/diselogo.png',
       timestamp: '1/05/2014',
@@ -90,7 +90,7 @@ app.service('apiService', function(){
       project_url:'http://www.belpernews.co.uk/news/local/video-business-bright-sparks-share-35k-1-6746125'
     },
     {
-      id: 11,
+      id: 12,
       title: 'Bricks',
       background_image: 'img/bricks.png',
       timestamp: '1/03/2014',
