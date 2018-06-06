@@ -9,8 +9,12 @@ app.service('apiService', function(){
       description: 'A simple Android app, that helps a user discover movies. Discover the most popular or highest rated movies. You will be able to watch movie trailers, read reviews from users. Mark movies as favorites. Search for movies and access movies offline. ',
 =======
       description: 'A simple Android app, that helps a user discover movies. Discover the most popular, the highest rated moves. Watch movie trailers and teasers. Read reviews from other users. Mark movies as favourites. Search for movies. Users are also able to access movies offline',
+<<<<<<< HEAD
 >>>>>>> master
        project_url: ''
+=======
+       project_url: 'https://play.google.com/store/apps/details?id=com.creativecode.emmanuelabiola.popularmovies'
+>>>>>>> master
     },
     {
       id: 2,
